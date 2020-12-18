@@ -1,4 +1,4 @@
-<p align="center"><<img src="public/images/logo_sac_heading.gif" width="400"></p>
+<p align="center"><img src="public/images/logo_sac_heading.gif" width="400"></p>
 
 ## SAC website project
 
@@ -7,7 +7,7 @@ The SAC would like to give a new look to its website, currently under Joomla.  T
 
 Language : PHP 7
 Framework: Laravel
-Template: FreeHTML5.co 
+Template: FreeHTML5.co
 
 ## About Standard Athletic Club
 The Standard Athletic Club is hidden in the forest of Meudon just minutes from the Etoile.
